@@ -4,6 +4,7 @@
   "license": "MIT",
   "category": "miscellaneous",
   "dependencies": {
-    "rung-cli": "0.6.8"
+    "rung-cli": "0.6.8",
+    "xml2js": "^0.4.17"
   }
 }
