@@ -1,9 +1,11 @@
 {
   "name": "situacao-aeroportos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "category": "miscellaneous",
   "dependencies": {
+    "iconv-lite": "^0.4.18",
+    "pacote": "^4.0.0",
     "rung-cli": "0.6.8",
     "xml2js": "^0.4.17"
   }
